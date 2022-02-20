@@ -29,7 +29,8 @@ Designed by [Tomash GHz](https://tomashg.com/) in collaboration with El Campesin
 * Alternatively you can use 4 x 6 pin headers, 2 x 10 pin headers, 2 x 12 pin headers. Whatever is easier to get.
 
 Note: On the back there are optional footprints for resistors and capacitors to debounce the switches. Those are really not necessary to populate. 
-But if you do decide to populate them, you can use some values like 120R and 100nF and break the corresponding SB briges.
+But if you do decide to populate them, you can use some values like 120R and 100nF and break the corresponding SB briges. (This is not tested as no bounce
+issues were observed)
 
 ## Instructions
 
